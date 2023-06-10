@@ -1,0 +1,1 @@
+/**Sirve para configurar, o definir variables a importar al resto de la aplicación */
