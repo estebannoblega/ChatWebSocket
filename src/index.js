@@ -2,8 +2,13 @@
 import app from './app';
 import { Server as WebSocketServer } from 'socket.io';
 import http from 'http';
-import dbConection from './db';
+// import dbConection from './db';
 import sockets from './sockets'
+
+// const app = require('./app');
+// const {Server: WebSocketServer} = require('socket.io');
+// const http = require('http');
+// const sockets = require('./sockets');
 
 // dbConection();
 
